@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajeev</h1>
 <h3 align="center">I'm a 3rd Year Computer Engineer at the University of Toronto</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeev-d&label=Profile%20views&color=0e75b6&style=flat" alt="sajeev-d" /> </p>
-
 - 🔭 I’m currently working on my start up, Dispute Lens [DiputeLens](https://github.com/Sajeev-D/DisputeLens)
 
 - 🌱 I’m currently learning **Javascript**
