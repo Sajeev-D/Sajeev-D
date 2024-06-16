@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **sajeev.debnath@mail.utoronto.ca**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
