@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajeev</h1>
 <h3 align="center">I'm a 3rd Year Computer Engineering Student at the University of Toronto</h3>
 
-- 🔭 I’m currently working on my start up, Dispute Lens [DiputeLens](https://github.com/Sajeev-D/DisputeLens)
+- 🔭 I’m currently working on my start-up, Dispute Lens [DisputeLens](https://github.com/Sajeev-D/DisputeLens)
 
 - 🌱 I’m currently learning **Javascript**
 
