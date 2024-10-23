@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my start-up, Dispute Lens [DisputeLens](https://github.com/Sajeev-D/DisputeLens)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Operating Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sajeev-D](https://github.com/Sajeev-D)
 
